@@ -11,9 +11,11 @@ Urban Labs Indonesia is part of the [Urban Team at Bappenas](https://peraturan.b
 
 # Staff
 {% include list.html data="members" component="portrait" filter="role == 'staff'" %}
+{% include section.html %}
 
 # Intern
 {% include list.html data="members" component="portrait" filter="role == 'intern'" %}
+{% include section.html %}
 
 {% include section.html background="images/Rasuna.PNG" dark=true %}
 
