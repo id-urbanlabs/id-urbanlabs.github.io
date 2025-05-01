@@ -1,15 +1,16 @@
 # site properties and page defaults
-title: UrbanLabsID
-subtitle: Urban Labs Indonesia
+title: Urban Labs Indonesia
+subtitle: 
 description: Data-driven urban policy, research, and tools for sustainable cities in Indonesia — a think tank within the Urban Team at The Ministry of National Development Planning / National Development Planning Agency (Bappenas), Republic of Indonesia.
-header: images/Jakarta.png
-footer: images/Jakarta.png
+header: images/Rasuna.PNG
+footer: images/Rasuna.PNG
 proofer: false
 
 # site social media and other links
 links:
   email: id.urbanlabs@gmail.com
   github: id-urbanlabs
+  linkedin: http://linkedin.com/company/urban-labs-indonesia
 
 ### jekyll settings
 
