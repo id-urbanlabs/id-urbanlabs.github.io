@@ -1,7 +1,7 @@
 ---
 name: Luthfi Iqbal
 position: UrbanLabs Program Lead
-image: images/photo.jpg
+image: images/team/lmi.jpg
 role: pns
 education: 
   - "Imperial College London: PhD in Operations Research 2020"
