@@ -1,5 +1,5 @@
 ---
-name: Muhammad Prawira Utama Amdan
+name: Muhammad Amdan
 position: Urban Data Management Expert
 image: images/photo.jpg
 role: ta
