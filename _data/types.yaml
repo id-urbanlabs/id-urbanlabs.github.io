@@ -2,21 +2,21 @@
 
 # team member roles
 
-principal-investigator:
+pns:
   icon: fa-solid fa-microscope
-  description: Principal Investigator
+  description: Civil Servant
 
-postdoc:
+pppk:
   icon: fa-solid fa-glasses
-  description: Postdoctoral Researcher
+  description: Contract Staff
 
-phd:
+ta:
   icon: fa-solid fa-graduation-cap
-  description: PhD Student
+  description: Consultant
 
-undergrad:
+intern:
   icon: fa-solid fa-user-graduate
-  description: Undergraduate Student
+  description: Intern
 
 programmer:
   icon: fa-solid fa-code
