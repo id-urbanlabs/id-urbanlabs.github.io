@@ -1,8 +1,8 @@
 ---
 name: Felix Feng
 position: Research Fellow & Laboratory Manager
-image: images/team/feng-f.jpg
-role: senior
+image: images/team/photo.jpg
+role: ta
 education: 
   - "University of Bath: PhD in Mechanical Engineering (2019)"
   - "University of Bath: MSc in Mechatronics Engineering (2014)"
