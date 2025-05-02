@@ -1,14 +1,14 @@
 ---
 name: Agung Dorodjatoen
 position: Deputy Director of Urban Affairs
-image: images/photo.jpg
+image: /images/fallback.svg
 role: pns
+brief-position: Deputy Director of Urban Affairs
+brief-desc: Urban Governance Expert
 education: 
   - "The University of Western Australia: PhD in Economic Geography 2014-2018"
   - "Universiteit Utrecht: MSc in Human Geography 2007-2009"
   - "Institut Teknologi Bandung: B.Eng in Urban and Regional Planning 2001-2006"
-brief-position: Aviation, Logistics, Simulation, Optimisation
-brief-desc: Deputy Director of Urban Affairs
 links:
   email: jose.escribano-macias11@imperial.ac.uk
   linkedin: jose-escribano
