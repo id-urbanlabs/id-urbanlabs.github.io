@@ -1,5 +1,5 @@
 ---
-name: Agung Mahesa Himawan Dorodjatoen
+name: Agung Dorodjatoen
 position: Deputy Director of Urban Affairs
 image: images/photo.jpg
 role: pns
