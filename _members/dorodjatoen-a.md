@@ -1,5 +1,5 @@
 ---
-name: Agung MH Dorodjatoen
+name: Agung Mahesa Himawan Dorodjatoen
 position: Deputy Director of Urban Affairs
 image: images/photo.jpg
 role: staff
