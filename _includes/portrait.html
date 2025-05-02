@@ -13,15 +13,10 @@
 
 <div class="portrait-wrapper">
   <a
-    {% if external-page-only != "" %}
-      href="{{ external-page-only  }}"
-    {% endif %}
-    {% if external-page-only == "" and page.slug != member.slug %}
-      href="{{ member.url | relative_url }}"
-    {% endif %}
+    href="{{ external-page-only | default: member.url | relative_url }}"
     class="portrait"
     data-style="{{ include.style }}"
-    aria-label="{{ member.name | default: "member link" }}"
+    aria-label="{{ member.name | default: 'member link' }}"
   >
     <img
       src="{{ member.image | relative_url }}"
@@ -31,30 +26,19 @@
       {% include fallback.html %}
     >
 
-    {% if member.name or member.role or member.description %}
-      <span class="portrait-text">
-        {% if member.name %}
-          <span class="portrait-name">
-            {{ member.name }}
-          </span>
-        {% endif %}
-
-        {% if member.role or member.description %}
-          <span class="portrait-role">
-            <span>{{ member.brief-desc }}</span>
-          </span>
-        {% endif %}
+    <span class="portrait-text">
+      <span class="portrait-name">
+        {{ member.name | default: '[No name provided]' }}
       </span>
-    {% endif %}
 
-    {% if member.brief-position and nointerests == false %}
-
-      <hr class="person-sep">
-      <span class="portrait-desc">
-        {{ member.brief-position  }}
+      <span class="portrait-role">
+        <span>{{ member.brief-desc | default: '[No role given]' }}</span>
       </span>
-    {% endif %}
+    </span>
 
-
+    <hr class="person-sep">
+    <span class="portrait-desc">
+      {{ member.brief-position | default: '[No position listed]' }}
+    </span>
   </a>
 </div>
