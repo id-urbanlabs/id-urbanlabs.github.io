@@ -32,13 +32,13 @@
       </span>
 
       <span class="portrait-role">
-        <span>{{ member.brief-desc | default: '[No role given]' }}</span>
+        <span>{{ member.brief-desc | default: "" }}</span>
       </span>
     </span>
 
     <hr class="person-sep">
     <span class="portrait-desc">
-      {{ member.brief-position | default: '[No position listed]' }}
+      {{ member.brief-position | default: "" }}
     </span>
   </a>
 </div>
