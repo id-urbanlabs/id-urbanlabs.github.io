@@ -2,12 +2,12 @@
 name: Agung Mahesa Himawan Dorodjatoen
 position: Deputy Director of Urban Affairs
 image: images/photo.jpg
-role: staff
+role: pns
 education: 
   - "Imperial College London: PhD in Operations Research 2020"
   - "Imperial College London: MEng in Civil & Environmental Engineering 2015"
 brief-position: Aviation, Logistics, Simulation, Optimisation
-brief-desc: Lecturer
+brief-desc: Deputy Director of Urban Affairs
 links:
   email: jose.escribano-macias11@imperial.ac.uk
   linkedin: jose-escribano
