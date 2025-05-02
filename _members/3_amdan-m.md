@@ -1,7 +1,7 @@
 ---
 name: Muhammad Amdan
 position: Urban Data Management Expert
-image: images/photo.jpg
+image: images/team/mpua.jpg
 role: ta
 education: 
   - "Imperial College London: PhD in Operations Research 2020"
