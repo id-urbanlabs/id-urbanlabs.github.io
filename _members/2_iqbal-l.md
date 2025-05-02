@@ -1,21 +1,18 @@
 ---
 name: Luthfi Iqbal
 position: UrbanLabs Program Lead
-image: images/team/lmi.jpg
+image: images/team/ITA.png
 role: pns
 education: 
   - "Imperial College London: PhD in Operations Research 2020"
   - "Imperial College London: MEng in Civil & Environmental Engineering 2015"
-brief-position: Aviation, Logistics, Simulation, Optimisation
+brief-position: UrbanLabs Program Lead
 brief-desc: UrbanLabs Program Lead
 links:
   email: jose.escribano-macias11@imperial.ac.uk
   linkedin: jose-escribano
   google-scholar: oG83iIoAAAAJ
   github: JoseEscribano
-affiliations:
-  - Lecturer in Aviation & Logistics
-  - Director of Admissions, MSc in Transport
 ---
 
 Jose is Lecturer in Air Transport & Logistics and a member of the Centre for Transport Engineering & Modelling at Imperial College London. His research focuses on collaborative vehicle control, optimisation of last-mile logistics, urban air mobility, and machine learning and game theoretical models.
