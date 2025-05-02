@@ -4,8 +4,9 @@ position: Deputy Director of Urban Affairs
 image: images/photo.jpg
 role: pns
 education: 
-  - "Imperial College London: PhD in Operations Research 2020"
-  - "Imperial College London: MEng in Civil & Environmental Engineering 2015"
+  - "The University of Western Australia: PhD in Economic Geography 2014-2018"
+  - "Universiteit Utrecht: MSc in Human Geography 2007-2009"
+  - "Institut Teknologi Bandung: B.Eng in Urban and Regional Planning 2001-2006"
 brief-position: Aviation, Logistics, Simulation, Optimisation
 brief-desc: Deputy Director of Urban Affairs
 links:
