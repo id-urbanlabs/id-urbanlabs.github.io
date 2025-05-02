@@ -1,15 +1,3 @@
-{% if include.lookup %}
-  {% assign member = site.members 
-    | where_exp: "member", "member.slug == include.lookup"
-    | first
-  %}
-{% else %}
-  {% assign member = include %}
-{% endif %}
-
-{% assign nointerests = include.nointerests | default: false %}
-{% assign external-page-only = include.external-page-only | default: "" %}
-
 <div class="portrait-wrapper">
   <a
     {% if external-page-only != "" %}
@@ -30,27 +18,19 @@
       {% include fallback.html %}
     >
 
-    {% if member.name or member.brief-desc %}
-      <span class="portrait-text">
-        {% if member.name %}
-          <span class="portrait-name">
-            {{ member.name }}
-          </span>
-        {% endif %}
-
-        {% if member.brief-desc %}
-          <span class="portrait-role">
-            <span>{{ member.brief-desc }}</span>
-          </span>
-        {% endif %}
+    <span class="portrait-text">
+      <span class="portrait-name">
+        {{ member.name | default: " " }}
       </span>
-    {% endif %}
 
-    {% if member.brief-position and nointerests == false %}
-      <hr class="person-sep">
-      <span class="portrait-desc">
-        {{ member.brief-position }}
+      <span class="portrait-role">
+        <span>{{ member.brief-desc | default: " " }}</span>
       </span>
-    {% endif %}
+    </span>
+
+    <hr class="person-sep">
+    <span class="portrait-desc">
+      {{ member.brief-position | default: " " }}
+    </span>
   </a>
 </div>
