@@ -1,13 +1,13 @@
 ---
-name: Luthfi Muhamad Iqbal
-position: UrbanLabs Lead
+name: Luthfi Iqbal
+position: UrbanLabs Program Lead
 image: images/photo.jpg
 role: pns
 education: 
   - "Imperial College London: PhD in Operations Research 2020"
   - "Imperial College London: MEng in Civil & Environmental Engineering 2015"
 brief-position: Aviation, Logistics, Simulation, Optimisation
-brief-desc: UrbanLabs Lead
+brief-desc: UrbanLabs Program Lead
 links:
   email: jose.escribano-macias11@imperial.ac.uk
   linkedin: jose-escribano
