@@ -1,8 +1,8 @@
 ---
-name: Luthfi M Iqbal
+name: Luthfi Muhamad Iqbal
 position: UrbanLabs Lead
 image: images/photo.jpg
-role: staff
+role: pns
 education: 
   - "Imperial College London: PhD in Operations Research 2020"
   - "Imperial College London: MEng in Civil & Environmental Engineering 2015"
