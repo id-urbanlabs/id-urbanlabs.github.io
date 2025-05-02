@@ -1,12 +1,12 @@
 ---
-name: M Prawira U Amdan
+name: Muhammad Prawira Utama Amdan
 position: Urban Data Management Expert
 image: images/photo.jpg
 role: staff
 education: 
   - "Imperial College London: PhD in Operations Research 2020"
   - "Imperial College London: MEng in Civil & Environmental Engineering 2015"
-brief-position: Aviation, Logistics, Simulation, Optimisation
+brief-position: GIS, Data, Spatial
 brief-desc: Urban Data Management Expert
 links:
   email: jose.escribano-macias11@imperial.ac.uk
