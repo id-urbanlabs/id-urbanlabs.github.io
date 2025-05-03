@@ -14,7 +14,6 @@
   orcid: 0000-0001-7146-2729
   plugin: sources.py
   file: sources.yaml
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S1618866725001311-gr6.jpg
 - id: doi:10.1080/02697459.2024.2342756
   title: 'Decoding the image of island urban sprawl: insights from the Indonesian
     archipelago'
@@ -28,7 +27,6 @@
   orcid: 0000-0001-7146-2729
   plugin: sources.py
   file: sources.yaml
-  image: https://www.tandfonline.com/cms/asset/c6f93568-a948-4d2e-b6e2-f53ff8c0929c/cppr_a_2342756_f0006_oc.jpg
 - id: doi:10.31327/gsej.v3i2.1704
   title: 'Demystifying the Geography of Urbanization in Indonesia (Case Study: Southeast
     Sulawesi Province)'
@@ -41,7 +39,6 @@
   orcid: 0000-0001-7146-2729
   plugin: sources.py
   file: sources.yaml
-  image: null
 - id: doi:10.47266/bwp.v3i2.78
   title: Evaluasi Ex Ante Kebijakan Dana Khusus Kepulauan (DKK) terhadap Ketimpangan
     Alokasi Transfer ke Daerah
@@ -50,6 +47,21 @@
   date: '2020-09-07'
   link: https://doi.org/g9g8gt
   orcid: 0000-0001-7146-2729
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.36574/jpp.v8i3.634
+  title: Assessing Public Transport Convenience for Achieving SDG 11.2 in Tangerang
+    Municipality
+  authors:
+  - Luthfi Muhamad Iqbal
+  - Aditya Riski Taufani
+  - Martua Yan Steward Nababan
+  - Nadia Paramitha Kusumawardhani
+  - Renita Agnevia
+  publisher: 'Jurnal Perencanaan Pembangunan: The Indonesian Journal of Development
+    Planning'
+  date: '2024-12-31'
+  link: https://doi.org/g9g96p
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.26182/5cca430b16437
