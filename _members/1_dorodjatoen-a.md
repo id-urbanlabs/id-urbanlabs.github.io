@@ -1,7 +1,7 @@
 ---
 name: Agung Dorodjatoen
 position: Deputy Director of Urban Affairs
-image: /images/team/ad-bw.png
+image: images/team/ad-bw.png
 role: dd
 education: 
   - "The University of Western Australia: PhD in Economic Geography 2014-2018"
