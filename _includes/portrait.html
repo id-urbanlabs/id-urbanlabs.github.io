@@ -38,7 +38,7 @@
 
     {% if member.description or type %}
       <span class="portrait-description">
-        {{ member.description | default: type.description }}
+        {{ member.position }}
       </span>
     {% endif %}
 
