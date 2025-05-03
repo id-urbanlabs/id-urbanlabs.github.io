@@ -4,11 +4,11 @@
 
 dd:
   icon: fa-solid fa-briefcase
-  description: Deputy Director on Urban Affairs
+  description: Deputy Director, Urban Affairs
 
 ll:
   icon: fa-solid fa-flask
-  description: Urban Labs Program Lead
+  description: Urban Labs Lead
 
 uds:
   icon: fa-solid fa-map
