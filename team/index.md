@@ -9,8 +9,8 @@ nav:
 
 Urban Labs Indonesia is part of the [Urban Team at Bappenas](https://peraturan.bpk.go.id/Details/316731/permen-ppnkepala-bappenas-no-2-tahun-2025) and also serves on the Secretariat of the [National Urban Development Strategic Coordination Team](https://jdih.bappenas.go.id/peraturan/detailperaturan/2610/keputusan-menteri-ppn-kepala-bappenas-nomor-kep-67-m-ppn-hk-06--tahun-2021#:~:text=KEPUTUSAN%20MENTERI%20PPN/KEPALA%20BAPPENAS,Koordinasi%20Strategis%20Pembangunan%20Perkotaan%20Nasional). It plays a key role in supporting inter-sectoral collaboration by collecting, managing, and analyzing data and information to inform evidence-based policy and strategic decision-making for sustainable urban development.
 
-{% assign non_interns = site.members | where_exp: "member", "member.role != 'intern'" %}
-{% include list.html data=non_interns component="portrait" %}{% include section.html %}
+{% include list.html data="members" component="portrait" filter_exp="member.role != 'intern'" %}
+{% include section.html %}
 
 # {% include icon.html icon="fa-solid fa-user-graduate" %}Intern
 {% include list.html data="members" component="portrait" filter="role == 'intern'" %}
