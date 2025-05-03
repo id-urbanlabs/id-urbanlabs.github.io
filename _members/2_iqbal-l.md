@@ -2,7 +2,7 @@
 name: Luthfi Iqbal
 position: UrbanLabs Program Lead
 image: images/team/lmi.jpg
-role: pns
+role: ll
 education: 
   - "University 1: Education 1"
   - "University 2: Education 2"
