@@ -7,38 +7,45 @@
   {% assign member = include %}
 {% endif %}
 
-{% assign nointerests = include.nointerests | default: false %}
-{% assign external-page-only = include.external-page-only | default: "" %}
-
+{% assign type = site.data.types[member.role] %}
 
 <div class="portrait-wrapper">
   <a
-    href="{{ external-page-only | default: member.url | relative_url }}"
+    {% if page.slug != member.slug %}
+      href="{{ member.url | relative_url | uri_escape }}"
+    {% endif %}
     class="portrait"
     data-style="{{ include.style }}"
-    aria-label="{{ member.name | default: 'member link' }}"
+    aria-label="{{ member.name | default: "member link" | regex_strip }}"
   >
+    {% if type %}
+      {% include icon.html icon=type.icon %}
+    {% endif %}
+
     <img
-      src="{{ member.image | relative_url }}"
+      src="{{ member.image | relative_url | uri_escape }}"
       class="portrait-image"
       alt="member portrait"
       loading="lazy"
       {% include fallback.html %}
     >
 
-    <span class="portrait-text">
+    {% if member.name %}
       <span class="portrait-name">
-        {{ member.name | default: '[No name provided]' }}
+        {{ member.name }}
       </span>
+    {% endif %}
 
-      <span class="portrait-role">
-        <span>{{ member.brief-desc | default: "" }}</span>
+    {% if member.description or type %}
+      <span class="portrait-description">
+        {{ member.description | default: type.description }}
       </span>
-    </span>
+    {% endif %}
 
-    <hr class="person-sep">
-    <span class="portrait-desc">
-      {{ member.brief-position | default: "" }}
-    </span>
+    {% if member.affiliation %}
+      <span class="portrait-affiliation">
+        {{ member.affiliation }}
+      </span>
+    {% endif %}
   </a>
 </div>
