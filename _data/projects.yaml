@@ -2,8 +2,6 @@
   image: images/projects/slum.jpg
   description: >
     This project aims to analyze the relationship between urban building characteristics and city poverty levels. Using building footprint data (from sources like VIDA, Google, or Microsoft), we can examine the size, count, and distribution of buildings in different urban areas and compare them with poverty indicators. The goal is to identify patterns or "pockets of poverty" (kantong kemiskinan) within urban environments to inform more effective urban planning and policy interventions.
-  collaborators:
-  collaborator_icons:
   tags:
     - SDG 11.1
     - building
@@ -14,8 +12,6 @@
   image: images/projects/mrt.jpg
   description: >
     This project will apply the 15-minute city concept to Indonesian cities, focusing on urban mobility and access to essential services. The idea is to ensure that all essential services (schools, healthcare, shops, parks, public transport) are accessible within a 15-minute walk or bike ride. Using OpenStreetMap (OSM) data, the project will map out urban mobility networks (such as public transport routes, roads, bike lanes) and Points of Interest (POIs) across several Indonesian cities to assess where access is inadequate, especially in lower-income or informal areas.
-  collaborators:
-  collaborator_icons:
   tags:
     - SDG 11.2
     - transport
@@ -26,8 +22,6 @@
   image: images/projects/sprawl.jpg
   description: >
     This project will analyze the spatiotemporal expansion of built-up areas and land cover changes in city regions using satellite imagery and remote sensing data. It will examine the patterns of urban sprawl, identifying key drivers of land conversion over time. The project will assess the environmental and socio-economic impacts of urban growth, such as deforestation and loss of agricultural land. It will provide actionable insights into sustainable urban planning strategies to mitigate the negative effects. Ultimately, the project aims to support more equitable and sustainable urban development.
-  collaborators:
-  collaborator_icons:
   tags:
     - SDG 11.3
     - sprawl
@@ -38,8 +32,6 @@
   image: images/projects/heritage.jpg
   description: >
     The project will focus on urban heritage within one or more cities (you could focus on a single city or a comparison between different cities). The project will track two main indicators: (1) Proportion of cultural and natural heritage sites under protection; (2) Total public and private expenditure on the preservation, protection, and conservation of cultural and natural heritage. By evaluating these indicators, the project aims to understand the effectiveness of current heritage conservation efforts and their ability to mitigate the impacts of urbanization and modernization on urban heritage sites.
-  collaborators:
-  collaborator_icons:
   tags:
     - SDG 11.4
     - heritage
@@ -50,8 +42,6 @@
   image: images/projects/disaster.jpg
   description: >
     This project explores the escalating threat of sea-level rise on coastal urban cities, focusing on how rising seas contribute to cities' sinking and exacerbate risks such as flooding, infrastructure damage, and displacement. By leveraging remote sensing and spatial analysis, the project will map and analyze the vulnerability of urban regions most at risk of sinking due to rising sea levels. It will track historical trends in land cover changes, coastal erosion, and flooding patterns, identifying high-risk areas where infrastructure and communities are at the greatest danger. The insights generated will inform climate adaptation policies, guide disaster risk management, and help coastal cities better prepare for the inevitable impacts of sea-level rise.
-  collaborators:
-  collaborator_icons:
   tags:
     - SDG 11.5
     - disaster
@@ -62,8 +52,6 @@
   image: images/projects/air.jpg
   description: >
     This project aims to assess and improve urban environmental quality in major Indonesian cities by focusing on air pollution and the associated health risks. Using satellite and Geographic Information System (GIS) techniques, the project will track PM2.5 levels across urban areas in Indonesia. By analyzing spatiotemporal trends in particulate matter concentrations, the project will identify pollution hotspots and correlate them with urban activities, population density, and existing infrastructure. The insights gained will guide local authorities in implementing policy interventions to reduce air pollution, improve public health, and enhance overall urban sustainability.
-  collaborators:
-  collaborator_icons:
   tags:
     - SDG 11.6
     - pollution
@@ -74,8 +62,6 @@
   image: images/projects/waste.jpg
   description: >
     This project focuses on tracking the expansion of landfill sites over time to evaluate the feasibility of closing open dumping sites and transitioning to regulated waste management systems. Using satellite imagery and Geographic Information Systems (GIS), the project will assess the spatiotemporal trends of landfill expansion, focusing on open dumping sites in urban areas. The project will model the future expansion of open dumping sites based on historical data and estimate how much additional land is required for waste disposal in the near future. By examining the impact of recent bans on open dumping and regulatory measures, the project will assess how feasible it is to close these informal sites and transition to sanitary landfills or alternative waste disposal methods.
-  collaborators:
-  collaborator_icons:
   tags:
     - SDG 11.6
     - land use
@@ -86,8 +72,6 @@
   image: images/projects/nature.jpg
   description: >
     This project will assess the accessibility of urban green and blue spaces in Indonesian cities. Using satellite-derived indices such as the Enhanced Vegetation Index (EVI) and Normalized Difference Water Index (NDWI), along with network analysis, the project will quantify how well urban populations have access to nature-based spaces. The goal is to identify gaps in urban nature access and evaluate how different demographics (e.g., low-income populations, elderly, and people with disabilities) are impacted by this lack of access. This approach will involve generating an Urban Green-Blue Index (IHBI) that combines both ecological and social function of green and blue spaces.
-  collaborators:
-  collaborator_icons:
   tags:
     - SDG 11.7
     - nature
@@ -98,8 +82,6 @@
   image: images/projects/women.jpg
   description: >
     This project aims to assess urban safety and perceived safety across Indonesian cities, focusing on spatial patterns and environmental factors that affect how residents feel about their safety. By combining satellite data (e.g., Nighttime Lights Data), proximity to safety infrastructure, and participatory mapping (to capture perceptions of safety), the project will identify areas that may be at risk or lacking in safety features and propose targeted interventions. The goal is to measure the spatial distribution of safe spaces and unsafe spaces, helping to ensure safer, more inclusive urban environments.
-  collaborators:
-  collaborator_icons:
   tags: 
     - SDG 11.7
     - people
