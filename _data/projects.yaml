@@ -1,4 +1,4 @@
-- title: Sensing Poverty and Slums through Urban Buildings: A Spatial Analysis of Urban Inequality
+- title: Sensing Poverty and Slums through Urban Buildings-A Spatial Analysis of Urban Inequality
   image: images/projects/slum.jpg
   description: >
     This project aims to analyze the relationship between urban building characteristics and city poverty levels. Using building footprint data (from sources like VIDA, Google, or Microsoft), we can examine the size, count, and distribution of buildings in different urban areas and compare them with poverty indicators. The goal is to identify patterns or "pockets of poverty" (kantong kemiskinan) within urban environments to inform more effective urban planning and policy interventions.
@@ -8,7 +8,7 @@
     - people
     - housing
 
-- title: Access to Urban Mobility & Service Gaps in Indonesian Cities: Towards the 15-Minute City
+- title: Access to Urban Mobility & Service Gaps in Indonesian Cities-Towards the 15-Minute City
   image: images/projects/mrt.jpg
   description: >
     This project will apply the 15-minute city concept to Indonesian cities, focusing on urban mobility and access to essential services. The idea is to ensure that all essential services (schools, healthcare, shops, parks, public transport) are accessible within a 15-minute walk or bike ride. Using OpenStreetMap (OSM) data, the project will map out urban mobility networks (such as public transport routes, roads, bike lanes) and Points of Interest (POIs) across several Indonesian cities to assess where access is inadequate, especially in lower-income or informal areas.
@@ -38,7 +38,7 @@
     - people
     - nature
     
-- title: Rising Seas, Sinking Cities: Understanding the Impacts of Sea-Level Rise on Urban Vulnerability
+- title: Rising Seas, Sinking Cities-Understanding the Impacts of Sea-Level Rise on Urban Vulnerability
   image: images/projects/disaster.jpg
   description: >
     This project explores the escalating threat of sea-level rise on coastal urban cities, focusing on how rising seas contribute to cities' sinking and exacerbate risks such as flooding, infrastructure damage, and displacement. By leveraging remote sensing and spatial analysis, the project will map and analyze the vulnerability of urban regions most at risk of sinking due to rising sea levels. It will track historical trends in land cover changes, coastal erosion, and flooding patterns, identifying high-risk areas where infrastructure and communities are at the greatest danger. The insights generated will inform climate adaptation policies, guide disaster risk management, and help coastal cities better prepare for the inevitable impacts of sea-level rise.
@@ -58,7 +58,7 @@
     - nature
     - environment
 
-- title: Tracking Landfill Expansion Trends: Assessing the Feasibility of Closing Open Dumping Landfills
+- title: Tracking Landfill Expansion Trends-Assessing the Feasibility of Closing Open Dumping Landfills
   image: images/projects/waste.jpg
   description: >
     This project focuses on tracking the expansion of landfill sites over time to evaluate the feasibility of closing open dumping sites and transitioning to regulated waste management systems. Using satellite imagery and Geographic Information Systems (GIS), the project will assess the spatiotemporal trends of landfill expansion, focusing on open dumping sites in urban areas. The project will model the future expansion of open dumping sites based on historical data and estimate how much additional land is required for waste disposal in the near future. By examining the impact of recent bans on open dumping and regulatory measures, the project will assess how feasible it is to close these informal sites and transition to sanitary landfills or alternative waste disposal methods.
