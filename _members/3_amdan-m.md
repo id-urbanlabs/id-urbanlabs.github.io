@@ -1,27 +1,16 @@
 ---
-name: Muhammad Amdan
+name: Wira Amdan
 position: Urban Data Management Expert
-image: images/team/mpua.jpg
+image: images/team/wa.jpg
 role: uds
 education: 
-  - "Imperial College London: PhD in Operations Research 2020"
-  - "Imperial College London: MEng in Civil & Environmental Engineering 2015"
+  - "Diponegoro University: Bachelor in Urban and Regional Planning 2017-2021"
 brief-position: GIS, Data, Spatial
 brief-desc: Urban Data Management Expert
 links:
-  email: jose.escribano-macias11@imperial.ac.uk
-  linkedin: jose-escribano
-  google-scholar: oG83iIoAAAAJ
-  github: JoseEscribano
-affiliations:
-  - Lecturer in Aviation & Logistics
-  - Director of Admissions, MSc in Transport
+  email: muhammad.amdan@support.bappenas.go.id
+  linkedin: wiraamdan
 ---
+Wira Amdan is an Urban Data Management Expert with a background in Urban and Regional Planning from Diponegoro University. He combines creative thinking with strong analytical skills to address urban challenges through data-driven solutions. Proficient in GIS software (ArcGIS, QGIS), design platforms, and analytical tools such as SPSS and Excel, Wira excels at managing complex datasets and translating them into actionable insights. His work reflects a keen eye for detail, a problem-solving mindset, and a continuous drive to learn and innovate in the field of urban data and spatial analysis.
 
-Jose is Lecturer in Air Transport & Logistics and a member of the Centre for Transport Engineering & Modelling at Imperial College London. His research focuses on collaborative vehicle control, optimisation of last-mile logistics, urban air mobility, and machine learning and game theoretical models.
-
-Jose joined the Centre for Transport Studies in October 2015 as part of the [EPSRC Centre for Doctoral Training (CDT) in Sustainable Civil Engineering](https://www.imperial.ac.uk/sustainable-civil-engineering) and was awarded his PhD in March 2021. His thesis focused on the optimisation of humanitarian relief operations using unmanned aerial vehicles (UAVs), developing a framework to design and evaluate relief efforts. This incorporates UAV-specific constraints (such as energy consumption patterns, flight trajectories, and recharging operations), setting it apart from conventional humanitarian operations models. The models conform to the latest Civil Aviation navigation specification frameworks.
-
-Alongside his PhD, he worked with [WeRobotics](https://werobotics.org/) on the development of UAV field-deployment protocols and as a consultant with the [United Nations World Food Programme](https://www.wfp.org) on the development of the first [Humanitarian UAV Coordination Mechanism](https://www.wfp.org/news/news-release/wfp-and-belgium-start-efforts-deploy-drones-humanitarian-emergencies).
-
-Jose also holds a first-class MEng degree in Civil Engineering from Imperial College London, graduating in 2015.
+Prior to joining Bappenas, Wira gained hands-on experience in various roles, including as a Product Researcher at Geocourse.id, where he contributed to geospatial education products, and as a Student Intern at the Ministry of Environment and Forestry. He also worked as a Surveyor with PT Jasa Marga (Persero) Tbk, assessing user experience on toll road rest areas.
