@@ -1,24 +1,17 @@
 ---
 title: Research
 nav:
-  order: 1
+  order: 5
   tooltip: Published works
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+At Urban Labs Indonesia, we conduct applied research to inform urban development policies and practices. Our work bridges data, policy, and planning — from spatial analysis and sustainability assessments to socio-economic studies — to support evidence-based decision-making at national and local levels.
+
+We collaborate with academic institutions, government agencies, and international partners to co-create knowledge that addresses pressing urban challenges in Indonesia.
 
 {% include section.html %}
-
-## Highlighted
-
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
-
-{% include section.html %}
-
-## All
 
 {% include search-box.html %}
 
