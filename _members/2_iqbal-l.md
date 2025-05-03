@@ -1,7 +1,7 @@
 ---
 name: Luthfi Iqbal
 position: UrbanLabs Program Lead
-image: images/team/lmi-bw.png
+image: images/team/lmi-bw2.png
 role: ll
 education: 
   - "The University of the Aegean: M.Sc in Geography - Island and Sustainability 2022-2024"
