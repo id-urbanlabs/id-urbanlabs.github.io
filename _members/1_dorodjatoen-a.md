@@ -1,28 +1,20 @@
 ---
 name: Agung Dorodjatoen
 position: Deputy Director of Urban Affairs
-image: /images/team/agung.png
+image: /images/team/ad.jfif
 role: dd
-brief-position: Deputy Director of Urban Affairs
-brief-desc: Urban Governance Expert
 education: 
   - "The University of Western Australia: PhD in Economic Geography 2014-2018"
   - "Universiteit Utrecht: MSc in Human Geography 2007-2009"
   - "Institut Teknologi Bandung: B.Eng in Urban and Regional Planning 2001-2006"
 links:
-  email: jose.escribano-macias11@imperial.ac.uk
-  linkedin: jose-escribano
-  google-scholar: oG83iIoAAAAJ
-  github: JoseEscribano
+  email: agung.dorodjatoen@bappenas.go.id
+  linkedin: agung-dorodjatoen-0103971b0
+  google-scholar: 1RfwtUQAAAAJ&hl
 affiliations:
-  - Lecturer in Aviation & Logistics
-  - Director of Admissions, MSc in Transport
+  - Vice Chair for Rural and Regional Development, National Board of the [Indonesian Association of Planners (IAP)](https://iapindonesia.org/about/people)
 ---
 
-Jose is Lecturer in Air Transport & Logistics and a member of the Centre for Transport Engineering & Modelling at Imperial College London. His research focuses on collaborative vehicle control, optimisation of last-mile logistics, urban air mobility, and machine learning and game theoretical models.
+Agung Dorodjatoen is the Deputy Director of Urban Affairs at the Ministry of National Development Planning (Bappenas), Republic of Indonesia. With a strong academic foundation in geography and urban planning, his work focuses on advancing urban development strategies at both national and regional levels. He earned his PhD in Economic Geography from The University of Western Australia, following postgraduate studies in Human Geography at Universiteit Utrecht and an undergraduate degree in Urban and Regional Planning from Institut Teknologi Bandung.
 
-Jose joined the Centre for Transport Studies in October 2015 as part of the [EPSRC Centre for Doctoral Training (CDT) in Sustainable Civil Engineering](https://www.imperial.ac.uk/sustainable-civil-engineering) and was awarded his PhD in March 2021. His thesis focused on the optimisation of humanitarian relief operations using unmanned aerial vehicles (UAVs), developing a framework to design and evaluate relief efforts. This incorporates UAV-specific constraints (such as energy consumption patterns, flight trajectories, and recharging operations), setting it apart from conventional humanitarian operations models. The models conform to the latest Civil Aviation navigation specification frameworks.
-
-Alongside his PhD, he worked with [WeRobotics](https://werobotics.org/) on the development of UAV field-deployment protocols and as a consultant with the [United Nations World Food Programme](https://www.wfp.org) on the development of the first [Humanitarian UAV Coordination Mechanism](https://www.wfp.org/news/news-release/wfp-and-belgium-start-efforts-deploy-drones-humanitarian-emergencies).
-
-Jose also holds a first-class MEng degree in Civil Engineering from Imperial College London, graduating in 2015.
+Agung also serves as the Vice Chair for Rural and Regional Development on the National Board of the Indonesian Association of Planners (IAP), contributing to policy discourse and planning innovation across Indonesia. His expertise spans spatial development, urban governance, and integrated planning for sustainable growth.
