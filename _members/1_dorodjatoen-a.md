@@ -2,7 +2,7 @@
 name: Agung Dorodjatoen
 position: Deputy Director of Urban Affairs
 image: /images/team/agung.png
-role: pns
+role: dd
 brief-position: Deputy Director of Urban Affairs
 brief-desc: Urban Governance Expert
 education: 
