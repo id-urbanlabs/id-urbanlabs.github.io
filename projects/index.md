@@ -2,26 +2,17 @@
 title: Projects
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: Ongoing projects and concepts
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Explore our mix of active initiatives and emerging concepts focused on sustainable urban development.  
+From ongoing projects shaping policy and practice to early-stage ideas still in formation,  
+we aim to tackle Indonesia’s urban challenges with data, collaboration, and innovation.
 
-{% include tags.html tags="publication, resource, website" %}
+{% include project-tags.html %}
 
-{% include search-info.html %}
-
-{% include section.html %}
-
-## Featured
-
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
-
-{% include section.html %}
-
-## More
-
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+{% for project in site.data.projects %}
+    {% include project-card.html project=project %}
+{% endfor %}
