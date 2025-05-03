@@ -2,21 +2,21 @@
 
 # team member roles
 
-pns:
-  icon: fa-solid fa-microscope
-  description: Civil Servant
+dd:
+  icon: fa-solid fa-briefcase
+  description: Deputy Director on Urban Affairs
 
-pppk:
-  icon: fa-solid fa-glasses
-  description: Contract Staff
+ll:
+  icon: fa-solid fa-flask
+  description: Urban Labs Program Lead
 
-ta:
-  icon: fa-solid fa-graduation-cap
-  description: Consultant
+uds:
+  icon: fa-solid fa-map
+  description: Urban Data Specialist
 
 intern:
   icon: fa-solid fa-user-graduate
-  description: Intern
+  description: Urban Policy and Research Intern
 
 programmer:
   icon: fa-solid fa-code
