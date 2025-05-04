@@ -1,80 +1,80 @@
 - title: Sensing Poverty and Slums through Urban Buildings-A Spatial Analysis of Urban Inequality
-  image: images/projects/slum.jpg
+  image: images/projects/house.jpg
   description: >
     This project aims to analyze the relationship between urban building characteristics and city poverty levels. Using building footprint data (from sources like VIDA, Google, or Microsoft), we can examine the size, count, and distribution of buildings in different urban areas and compare them with poverty indicators. The goal is to identify patterns or "pockets of poverty" (kantong kemiskinan) within urban environments to inform more effective urban planning and policy interventions.
   tags:
-    - building
-    - people
-    - housing
+    - inequality
+    - infrastructure
+    - data-science
 
 - title: Access to Urban Mobility & Service Gaps in Indonesian Cities-Towards the 15-Minute City
-  image: images/projects/mrt.jpg
+  image: images/projects/train.jpg
   description: >
     This project will apply the 15-minute city concept to Indonesian cities, focusing on urban mobility and access to essential services. The idea is to ensure that all essential services (schools, healthcare, shops, parks, public transport) are accessible within a 15-minute walk or bike ride. Using OpenStreetMap (OSM) data, the project will map out urban mobility networks (such as public transport routes, roads, bike lanes) and Points of Interest (POIs) across several Indonesian cities to assess where access is inadequate, especially in lower-income or informal areas.
   tags:
-    - transport
-    - people
-    - accessibility
+    - urban-planning
+    - inequality
+    - infrastructure
     
 - title: Spatiotemporal Analysis of Built-Up Area Expansion & Land Cover Changes in City Regions
-  image: images/projects/sprawl.jpg
+  image: images/projects/rurban.jpg
   description: >
     This project will analyze the spatiotemporal expansion of built-up areas and land cover changes in city regions using satellite imagery and remote sensing data. It will examine the patterns of urban sprawl, identifying key drivers of land conversion over time. The project will assess the environmental and socio-economic impacts of urban growth, such as deforestation and loss of agricultural land. It will provide actionable insights into sustainable urban planning strategies to mitigate the negative effects. Ultimately, the project aims to support more equitable and sustainable urban development.
   tags:
-    - sprawl
-    - nature
-    - spatiotemporal
+    - urban-planning
+    - environment
+    - data-science
 
 - title: Urban Heritage Under Threat? Tracking the Protection and Conservation of Urban Heritage
-  image: images/projects/heritage.jpg
+  image: images/projects/ctown.jpg
   description: >
     The project will focus on urban heritage within one or more cities (you could focus on a single city or a comparison between different cities). The project will track two main indicators: (1) Proportion of cultural and natural heritage sites under protection; (2) Total public and private expenditure on the preservation, protection, and conservation of cultural and natural heritage. By evaluating these indicators, the project aims to understand the effectiveness of current heritage conservation efforts and their ability to mitigate the impacts of urbanization and modernization on urban heritage sites.
   tags:
     - heritage
-    - people
-    - nature
+    - governance
+    - urban-planning
     
-- title: Rising Seas, Sinking Cities-Understanding the Impacts of Sea-Level Rise on Urban Vulnerability
-  image: images/projects/disaster.jpg
+- title: Coastal Cities Resilience in the Face of Sea-Level Rise
+  image: images/projects/seawall.jpg
   description: >
     This project explores the escalating threat of sea-level rise on coastal urban cities, focusing on how rising seas contribute to cities' sinking and exacerbate risks such as flooding, infrastructure damage, and displacement. By leveraging remote sensing and spatial analysis, the project will map and analyze the vulnerability of urban regions most at risk of sinking due to rising sea levels. It will track historical trends in land cover changes, coastal erosion, and flooding patterns, identifying high-risk areas where infrastructure and communities are at the greatest danger. The insights generated will inform climate adaptation policies, guide disaster risk management, and help coastal cities better prepare for the inevitable impacts of sea-level rise.
   tags:
-    - disaster
-    - resilience
-    - people
+    - climate-risk
+    - data-science
+    - infrastructure
 
 - title: Monitoring Urban Air Quality and Pollution Hotspots in Indonesian Cities
-  image: images/projects/air.jpg
+  image: images/projects/fog.jpg
   description: >
     This project aims to assess and improve urban environmental quality in major Indonesian cities by focusing on air pollution and the associated health risks. Using satellite and Geographic Information System (GIS) techniques, the project will track PM2.5 levels across urban areas in Indonesia. By analyzing spatiotemporal trends in particulate matter concentrations, the project will identify pollution hotspots and correlate them with urban activities, population density, and existing infrastructure. The insights gained will guide local authorities in implementing policy interventions to reduce air pollution, improve public health, and enhance overall urban sustainability.
   tags:
-    - pollution
-    - nature
+    - health
     - environment
+    - data-science
 
-- title: Tracking Landfill Expansion Trends-Assessing the Feasibility of Closing Open Dumping Landfills
-  image: images/projects/waste.jpg
+- title: Tracking Landfill Growth amid Phasing Out Open Dumping
+  image: images/projects/landfill.jpg
   description: >
     This project focuses on tracking the expansion of landfill sites over time to evaluate the feasibility of closing open dumping sites and transitioning to regulated waste management systems. Using satellite imagery and Geographic Information Systems (GIS), the project will assess the spatiotemporal trends of landfill expansion, focusing on open dumping sites in urban areas. The project will model the future expansion of open dumping sites based on historical data and estimate how much additional land is required for waste disposal in the near future. By examining the impact of recent bans on open dumping and regulatory measures, the project will assess how feasible it is to close these informal sites and transition to sanitary landfills or alternative waste disposal methods.
   tags:
-    - waste
-    - pollution
     - environment
+    - infrstructure
+    - governance
 
 - title: Mapping Access to Urban Nature in Indonesian Cities
-  image: images/projects/nature.jpg
+  image: images/projects/deer.jpg
   description: >
     This project will assess the accessibility of urban green and blue spaces in Indonesian cities. Using satellite-derived indices such as the Enhanced Vegetation Index (EVI) and Normalized Difference Water Index (NDWI), along with network analysis, the project will quantify how well urban populations have access to nature-based spaces. The goal is to identify gaps in urban nature access and evaluate how different demographics (e.g., low-income populations, elderly, and people with disabilities) are impacted by this lack of access. This approach will involve generating an Urban Green-Blue Index (IHBI) that combines both ecological and social function of green and blue spaces.
   tags:
-    - nature
-    - accessibility
     - environment
+    - inequality
+    - urban-planning
 
 - title: Mapping Urban Safety Using Satellite Data and Participatory Approaches in Indonesian Cities
-  image: images/projects/women.jpg
+  image: images/projects/street.jpg
   description: >
     This project aims to assess urban safety and perceived safety across Indonesian cities, focusing on spatial patterns and environmental factors that affect how residents feel about their safety. By combining satellite data (e.g., Nighttime Lights Data), proximity to safety infrastructure, and participatory mapping (to capture perceptions of safety), the project will identify areas that may be at risk or lacking in safety features and propose targeted interventions. The goal is to measure the spatial distribution of safe spaces and unsafe spaces, helping to ensure safer, more inclusive urban environments.
   tags: 
-    - people
+    - inequality
     - safety
-    - gender
+    - data-science
