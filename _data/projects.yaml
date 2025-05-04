@@ -58,7 +58,7 @@
     This project focuses on tracking the expansion of landfill sites over time to evaluate the feasibility of closing open dumping sites and transitioning to regulated waste management systems. Using satellite imagery and Geographic Information Systems (GIS), the project will assess the spatiotemporal trends of landfill expansion, focusing on open dumping sites in urban areas. The project will model the future expansion of open dumping sites based on historical data and estimate how much additional land is required for waste disposal in the near future. By examining the impact of recent bans on open dumping and regulatory measures, the project will assess how feasible it is to close these informal sites and transition to sanitary landfills or alternative waste disposal methods.
   tags:
     - environment
-    - infrstructure
+    - infrastructure
     - governance
 
 - title: Mapping Access to Urban Nature in Indonesian Cities
