@@ -1,65 +1,58 @@
 ---
 ---
 
-# id-urbanlabs's Website
+**UrbanLabs** focuses on urban systems and spatial analytics, with emphasis on data-driven planning, sustainability, and equitable development.
 
-An engaging 1-3 sentence description of your lab.
+Our team collaborates with national ministries, research institutes, and international organizations, working at the intersection of policy, technology, and urban transformation.
 
 {% include section.html %}
 
-## Highlights
+#### Our work
+{% include project-carousel.html %}
 
-{% capture text %}
+{% include section.html %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#### Our news
+
+{% include news-list.html style="simple" limit=5 prefix="home-" hide_hidden=true %}
 
 {%
   include button.html
-  link="research"
-  text="See our publications"
+  link="news"
+  text="View all news"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
 %}
 
-{% endcapture %}
+{% include section.html %}
 
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
+#### Our priorities
 
-{% capture text %}
+{% include list.html component="card" data="themes" filters="group: theme" style="small" %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{% include section.html %}
+
+
+#### Our publications
+
+{% include list.html data="citations"  filters="group: featured" hideyear="true" component="citation"  %}
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="papers"
+  text="All publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
 %}
 
-{% endcapture %}
 
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
+{% capture text_team %}
 
-{% capture text %}
+Our team collaborates closely with other research groups, government agencies, and development partners, creating a strong ecosystem for impactful urban research.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+**Join us**: We welcome researchers, practitioners, and students interested in urban development, data, and policy. Opportunities for collaboration and internships are available.
 
 {%
   include button.html
@@ -70,12 +63,29 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   style="bare"
 %}
 
+{%
+  include button.html
+  link="apply"
+  text="Join us"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
 {% endcapture %}
+
+{% include section.html %}
 
 {%
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
-  text=text
+  title="Our team"
+  style="bare"
+  text=text_team
 %}
+
+
+
+
+{% include section.html %}
