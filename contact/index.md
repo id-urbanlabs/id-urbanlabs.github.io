@@ -1,33 +1,37 @@
 ---
 title: Contact
 nav:
-  order: 5
+  order: 9
   tooltip: Email, address, and location
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Feel free to reach out to us for inquiries, collaborations, or further information about our work. Whether you're interested in urban research, data partnerships, or student opportunities, we're happy to connect.
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="id.urbanlabs@gmail.com"
+  link="id.urbanlabs@gmail.com"
 %}
 {%
   include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  type="Gedung Bappenas - Menteng"
+  text="Click to see location on Google Maps"
+  link="https://maps.app.goo.gl/D2EL5JzcuSdmgEbPA"
 %}
 {%
   include button.html
-  type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  type="Menara Bappenas - Kuningan"
+  text="Click to see location on Google Maps"
+  link="https://maps.app.goo.gl/VjHEKm3J2L9huYPT9"
+%}
+{%
+  include button.html
+  type="Wisma Kodel - Kuningan"
+  tooltip="Click to see location on Google Maps"
+  link="https://maps.app.goo.gl/NYxrXFu5YGU1i3HA6"
 %}
 
 {% include section.html %}
@@ -36,8 +40,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/bappenas.jpg"
+  caption="Gedung Bappenas Menteng"
 %}
 
 {% endcapture %}
@@ -46,32 +50,41 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/Rasuna.PNG"
+  caption="Menara Bappenas Kuningan"
 %}
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 %}
+{% capture col3 %}
+
+{%
+  include figure.html
+  image="images/CWS2.PNG"
+  caption="Co-Working Spaces"
+%}
+
+{% endcapture %}
+{% include cols.html col1=col1 col2=col2 col3=col3 %}
 
 {% include section.html dark=true %}
 
 {% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+**Gedung Bappenas - Menteng**  
+Jl. Taman Suropati No.2, Jakarta Pusat  
+Primarily used for high-level meetings and strategic coordination.
 {% endcapture %}
 
 {% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+**Menara Bappenas - Kuningan**  
+Jl. H. R. Rasuna Said Kav. 2-4, Jakarta Selatan  
+Home to various technical teams, directorates, and co-working spaces.
 {% endcapture %}
 
 {% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+**Wisma Kodel Working Space**  
+Jl. H. R. Rasuna Said Kav. B4, Jakarta Selatan  
+A flexible space for collaboration, innovation, and internships.
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
