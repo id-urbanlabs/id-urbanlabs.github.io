@@ -7,7 +7,12 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Feel free to reach out to us for inquiries, collaborations, or further information about our work. Whether you're interested in urban research, data partnerships, or student opportunities, we're happy to connect.
+Feel free to reach out to us for inquiries, collaborations, or further information about our work. Whether you're interested in urban research, data partnerships, or student opportunities, we're happy to connect. 
+
+- Main office: 8th Floor, Menara Bappenas, Jl. H. R. Rasuna Said Kav. 2–4, Jakarta Selatan
+- Working space: 1st Floor, Wisma Kodel, Jl. H. R. Rasuna Said Kav. B4, Jakarta Selatan
+- Meeting venue (as needed): Gedung Bappenas - Menteng, Jl. Taman Suropati No. 2, Jakarta Pusat
+
 
 {%
   include button.html
@@ -55,32 +60,3 @@ Feel free to reach out to us for inquiries, collaborations, or further informati
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
-
-{% include section.html dark=true %}
-
-<div style="text-align: left;">
-  
-  {% capture col1 %}
-  **Gedung Bappenas - Menteng**  
-  Jl. Taman Suropati No.2, 
-  Jakarta Pusat, DK Jakarta  
-  Primarily used for high-level meetings and strategic coordination.
-  {% endcapture %}
-
-  {% capture col2 %}
-  **Menara Bappenas - Kuningan**  
-  Jl. H. R. Rasuna Said Kav. 2-4, 
-  Jakarta Selatan, DK Jakarta  
-  Home to various technical teams, directorates, and co-working spaces.
-  {% endcapture %}
-
-  {% capture col3 %}
-  **Wisma Kodel Working Space**  
-  Jl. H. R. Rasuna Said Kav. B4, 
-  Jakarta Selatan, DK Jakarta  
-  A flexible space for collaboration, innovation, and internships.
-  {% endcapture %}
-
-  {% include cols.html col1=col1 col2=col2 col3=col3 %}
-  
-</div>
