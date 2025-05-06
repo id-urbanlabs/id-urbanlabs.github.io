@@ -9,11 +9,6 @@ nav:
 
 Feel free to reach out to us for inquiries, collaborations, or further information about our work. Whether you're interested in urban research, data partnerships, or student opportunities, we're happy to connect. 
 
-- Main office: 8th Floor, Menara Bappenas, Jl. H. R. Rasuna Said Kav. 2–4, Jakarta Selatan
-- Working space: 1st Floor, Wisma Kodel, Jl. H. R. Rasuna Said Kav. B4, Jakarta Selatan
-- Meeting venue (as needed): Gedung Bappenas - Menteng, Jl. Taman Suropati No. 2, Jakarta Pusat
-
-
 {%
   include button.html
   type="email"
@@ -60,3 +55,8 @@ Feel free to reach out to us for inquiries, collaborations, or further informati
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
+
+
+- **Main office**: 8th Floor, Menara Bappenas, Jl. H. R. Rasuna Said Kav. 2–4, Jakarta Selatan
+- **Working space**: 1st Floor, Wisma Kodel, Jl. H. R. Rasuna Said Kav. B4, Jakarta Selatan
+- **Meeting venue** (as needed): Gedung Bappenas - Menteng, Jl. Taman Suropati No. 2, Jakarta Pusat
