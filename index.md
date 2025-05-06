@@ -40,7 +40,7 @@ Our team collaborates with national ministries, research institutes, and interna
 
 {%
   include button.html
-  link="papers"
+  link="research"
   text="All publications"
   icon="fa-solid fa-arrow-right"
   flip=true
