@@ -18,22 +18,15 @@ Feel free to reach out to us for inquiries, collaborations, or further informati
 
 {%
   include button.html
-  type="Address"
-  text="Gedung Bappenas - Menteng"
-  link="https://maps.app.goo.gl/D2EL5JzcuSdmgEbPA"
-%}
-
-{%
-  include button.html
-  type="Address"
+  type="address"
   text="Menara Bappenas - Kuningan"
   link="https://maps.app.goo.gl/VjHEKm3J2L9huYPT9"
 %}
 
 {%
   include button.html
-  type="Address"
-  tooltip="Wisma Kodel - Kuningan"
+  type="address"
+  text="Wisma Kodel - Kuningan"
   link="https://maps.app.goo.gl/NYxrXFu5YGU1i3HA6"
 %}
 
@@ -43,8 +36,9 @@ Feel free to reach out to us for inquiries, collaborations, or further informati
 
 {%
   include figure.html
-  image="images/menteng-pic.png"
-  caption="Gedung Bappenas Menteng"
+  image="images/bakrie-pic.png"
+  caption="Menara Bappenas Kuningan"
+  link="https://maps.app.goo.gl/VjHEKm3J2L9huYPT9"
 %}
 
 {% endcapture %}
@@ -53,22 +47,14 @@ Feel free to reach out to us for inquiries, collaborations, or further informati
 
 {%
   include figure.html
-  image="images/bakrie-pic.png"
-  caption="Menara Bappenas Kuningan"
-%}
-
-{% endcapture %}
-
-{% capture col3 %}
-
-{%
-  include figure.html
   image="images/kodel-pic.png"
   caption="Wisma Kodel Kuningan"
+  link="https://maps.app.goo.gl/NYxrXFu5YGU1i3HA6"
 %}
 
 {% endcapture %}
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
+
+{% include cols.html col1=col1 col2=col2 %}
 
 {% include section.html dark=true %}
 
@@ -76,19 +62,22 @@ Feel free to reach out to us for inquiries, collaborations, or further informati
   
   {% capture col1 %}
   **Gedung Bappenas - Menteng**  
-  Jl. Taman Suropati No.2, Jakarta Pusat  
+  Jl. Taman Suropati No.2, 
+  Jakarta Pusat, DK Jakarta  
   Primarily used for high-level meetings and strategic coordination.
   {% endcapture %}
 
   {% capture col2 %}
   **Menara Bappenas - Kuningan**  
-  Jl. H. R. Rasuna Said Kav. 2-4, Jakarta Selatan  
+  Jl. H. R. Rasuna Said Kav. 2-4, 
+  Jakarta Selatan, DK Jakarta  
   Home to various technical teams, directorates, and co-working spaces.
   {% endcapture %}
 
   {% capture col3 %}
   **Wisma Kodel Working Space**  
-  Jl. H. R. Rasuna Said Kav. B4, Jakarta Selatan  
+  Jl. H. R. Rasuna Said Kav. B4, 
+  Jakarta Selatan, DK Jakarta  
   A flexible space for collaboration, innovation, and internships.
   {% endcapture %}
 
