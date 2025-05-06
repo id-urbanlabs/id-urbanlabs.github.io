@@ -1,14 +1,14 @@
 - title: Metropolitan Development
   image: images/metropolis.jpg
-  description: Advancing data-driven planning and governance in complex urban systems.
+  description: planning and governance in complex urban systems.
   group: theme
 
-- title: Intermediate Non-Metropolitan Cities
+- title: Non-Metropolitan Cities
   image: images/intermediate.jpg
-  description: Supporting resilient services and connectivity in growing regional centres.
+  description: planning and governance in growing regional centres.
   group: theme
 
 - title: Emerging Cities and Towns
   image: images/emerging.jpg
-  description: Adaptive planning and policy support for fast-growing smaller urban areas.
+  description: support for fast-growing smaller urban areas.
   group: theme
