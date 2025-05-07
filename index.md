@@ -29,14 +29,14 @@ Our team collaborates with national ministries, research institutes, and interna
 
 #### Our priorities
 
-{% include list.html component="card" data="themes" style="small" %}
+{% include list.html component="card" filters="group:theme" data="themes" style="small" %}
 
 {% include section.html %}
 
 
 #### Our publications
 
-{% include list.html data="citations" hideyear="true" component="citation" %}
+{% include list.html data="citations" filters="group:feature" hideyear="true" component="citation" %}
 
 {%
   include button.html
