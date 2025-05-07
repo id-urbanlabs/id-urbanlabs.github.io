@@ -36,7 +36,7 @@ Our team collaborates with national ministries, research institutes, and interna
 
 #### Our publications
 
-{% include list.html data="citations" limit=5 hideyear="true" component="citation" %}
+{% include list.html data="citations" filters="group: featured" hideyear="true" component="citation" %}
 
 {%
   include button.html
