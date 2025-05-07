@@ -29,7 +29,7 @@ Our team collaborates with national ministries, research institutes, and interna
 
 #### Our priorities
 
-{% include list.html component="card" data="themes" filters="group:theme" style="small" %}
+{% include list.html component="card" data="themes" style="small" %}
 
 {% include section.html %}
 
@@ -40,7 +40,7 @@ Our team collaborates with national ministries, research institutes, and interna
 
 {%
   include button.html
-  link="papers"
+  link="research"
   text="All publications"
   icon="fa-solid fa-arrow-right"
   flip=true
