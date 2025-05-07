@@ -1,17 +1,27 @@
 - id: doi:10.1016/j.ufug.2025.128797
+  group:
+    - featured
 - id: doi:10.36574/jpp.v8i3.634
+  group:
+    - featured
 - id: doi:10.1080/02697459.2024.2342756
 - id: doi:10.31327/gsej.v3i2.1704
   authors: 
   - Luthfi Muhamad Iqbal
   - Alvaryan Maulana
+  group:
+    - featured  
 - id: doi:10.47266/bwp.v3i2.78
   authors: Luthfi Muhamad Iqbal
 - id: doi:10.26182/5cca430b16437
+  group:
+    - featured
 - id: https://journals.itb.ac.id/index.php/jpwk/article/view/4164
   title: The Emergence of Jakarta-Bandung Mega-Urban Region and Its Future Challenges
   authors: Agung Mahesa Himawan Dorodjatoen
   date: 2009-04-01
   publisher: Journal of Regional and City Planning
   link: https://journals.itb.ac.id/index.php/jpwk/article/view/4164
+  group:
+    - featured  
   
