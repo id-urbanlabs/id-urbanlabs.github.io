@@ -14,6 +14,8 @@
   orcid: 0000-0001-7146-2729
   plugin: sources.py
   file: sources.yaml
+  group:
+  - featured
 - id: doi:10.1080/02697459.2024.2342756
   title: 'Decoding the image of island urban sprawl: insights from the Indonesian
     archipelago'
@@ -39,6 +41,8 @@
   orcid: 0000-0001-7146-2729
   plugin: sources.py
   file: sources.yaml
+  group:
+  - featured
 - id: doi:10.47266/bwp.v3i2.78
   title: Evaluasi Ex Ante Kebijakan Dana Khusus Kepulauan (DKK) terhadap Ketimpangan
     Alokasi Transfer ke Daerah
@@ -62,6 +66,8 @@
     Planning'
   date: '2024-12-31'
   link: https://doi.org/g9g96p
+  group:
+  - featured
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.26182/5cca430b16437
@@ -71,6 +77,8 @@
   publisher: The University of Western Australia
   date: '2019-01-01'
   link: https://doi.org/g9g9rh
+  group:
+  - featured
   plugin: sources.py
   file: sources.yaml
 - id: https://journals.itb.ac.id/index.php/jpwk/article/view/4164
@@ -79,5 +87,7 @@
   publisher: Journal of Regional and City Planning
   date: '2009-04-01'
   link: https://journals.itb.ac.id/index.php/jpwk/article/view/4164
+  group:
+  - featured
   plugin: sources.py
   file: sources.yaml
